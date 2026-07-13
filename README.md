@@ -19,7 +19,7 @@ Saya memiliki ketertarikan besar dalam perancangan sistem dan pengembangan peran
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="left">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,linux,debian,git,github,vscode,blender,unity&theme=dark" alt="My Skills" />
   </a>
@@ -27,12 +27,15 @@ Saya memiliki ketertarikan besar dalam perancangan sistem dan pengembangan peran
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eqie-Az&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eqie-Az&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eqie-Az&theme=tokyonight" alt="GitHub Stats" width="800" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eqie-Az&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
 ---
 <div align="center">

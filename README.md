@@ -1,32 +1,44 @@
 #### Hi 👋, I'm Rifqi Azhar Raditya. 
 ##### Saya Mahasiswa Teknik Informatika UIN Malang.
 
-💻Saat ini saya sedang belajar pemrograman mobile:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Rifqi+Azhar+Raditya!+%F0%9F%91%8B;Mahasiswa+Teknik+Informatika+UIN+Malang;Flutter+%7C+PHP+%7C+Linux+Enthusiast" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Rifqy" />
-</p>
-
-### 👨‍💻 Tentang Saya
-Mahasiswa Informatika yang fokus pada pengembangan aplikasi mobile (Flutter) dan web (PHP/Native). Antusias dalam implementasi algoritma Decision Support System (DSS) dan otomasi sistem di lingkungan Linux.
-
-### 🛠 Tech Stack
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</p>
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="langs" />
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eqie-Az&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</div>
 
 ---
-*Ingin berkolaborasi? Mari terhubung!*
+
+### 👨‍💻 Tentang Saya
+
+Saya memiliki ketertarikan besar dalam perancangan sistem dan pengembangan perangkat lunak, mulai dari arsitektur aplikasi hingga implementasi di level *server*.
+
+- 🔭 Saat ini sedang fokus pada pengembangan aplikasi *mobile* yang *offline-first* menggunakan **Flutter** dan web menggunakan **PHP Native/MVC**.
+- 🧠 Terus mengeksplorasi implementasi algoritma **Decision Support System (DSS)** (seperti AHP, Borda, dan WP) ke dalam kode.
+- 🛠️ Memiliki pengalaman membangun berbagai *project*, mulai dari aplikasi manajemen klinik, sistem *voting*, hingga aplikasi edukasi.
+- 🐧 Terbiasa beroperasi dan melakukan *troubleshooting* di lingkungan **Linux (Debian)**.
+
+### 🛠️ Tech Stack & Tools
+
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,php,mysql,linux,debian,git,github,vscode,blender,unity&theme=dark" alt="My Skills" />
+  </a>
+</div>
+
+### 📈 GitHub Stats
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eqie-Az&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eqie-Az&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6" alt="Top Languages" width="48%" />
+</div>
+
+---
+<div align="center">
+  <i>"Writing code that solves real-world problems."</i>
+</div>
 
 <!--
 **Eqie-Az/Eqie-Az** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
